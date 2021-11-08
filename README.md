@@ -16,3 +16,9 @@ Most of these contracts are pretty similar. At least at the very begining, where
 __Solution__:</br>
 Web app where a non-dev user can visually configure a set of parameters, such as the amount of tokens, royalty %, etc.</br>
 This will result in an actual smart contract that the user would be able to deploy and use to start minting their work. No coding required.
+
+## 2) NFT drop whitelist
+__Problem__:</br>
+NFT artists have a hard time ensuring that all addresses registered for an airdrop are non-bots/non-duplicates. https://twitter.com/deekaymotion/status/1452198186462978052
+__Solution__:</br>
+Use proofofhumanity.id and require all addresses to be registered there in order to be whitelisted.
